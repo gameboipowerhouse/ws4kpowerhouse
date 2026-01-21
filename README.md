@@ -6,6 +6,8 @@ A live version of this project is available at https://weatherstar.netbymatt.com
 
 ## About
 
+This repo is a removal of the WeatherStar branding, for your own use. You must build it yourself.
+
 This project aims to bring back the feel of the 90s with a weather forecast that has the look and feel of The Weather Channel at that time but available in a modern way. This is by no means intended to be a perfect emulation of the WeatherStar 4000, the hardware that produced those wonderful blue and orange graphics you saw during the local forecast on The Weather Channel. If you would like a much more accurate project please see the [WS4000 Simulator](http://www.taiganet.com/). Instead, this project intends to create a simple to use interface with minimal configuration fuss. Some changes have been made to the screens available because either more or less forecast information is available today than was in the 90s. Most of these changes are captured in sections below.
 
 ## What's your motivation
@@ -38,7 +40,7 @@ From a learning standpoint, this codebase make use of a lot of different methods
 
 Ensure you have Node installed.
 ```bash
-git clone https://github.com/netbymatt/ws4kp.git
+git clone https://github.com/gameboipowerhouse/ws4kpowerhouse.git
 cd ws4kp
 npm install
 npm start
